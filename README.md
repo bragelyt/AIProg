@@ -9,6 +9,8 @@ The goal of the project is to solve Peg solitaire, both triangle and diamond wit
 
 To achieve this two types of actor-critic models are implemented, one with a table critic and one with a neural network critic.
 
+Project 2 and 3 was done with a group [in this repo](https://github.com/NikZy/IT3105-AiProg)
+
 ---
 ## Learning rate
 
