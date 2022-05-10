@@ -11,21 +11,19 @@ To achieve this two types of actor-critic models are implemented, one with a tab
 
 Project 2 and 3 was done with a group [in this repo](https://github.com/NikZy/IT3105-AiProg)
 
----
+
 ## Learning rate
 
-![Learning rate](img/learningRate.png)
+The amount of pins left pr itteration.
 
----
+<img src="img/learningRate.png" width="400" />
+
 
 ## 5x5 triangle board and solution
 
-![Triangle board](img/board.png)
-![Triangle board solution](img/board.png)
+<img src="img/board.png" width="400" /> <img src="img/solution.png" width="400" />
 
------
 ## 4x4 diamond board and solution
 
-![Diamond board](img/boardDiamond.png)
-![Diamond board solution](img/solutionDiamond.png)
+<img src="img/boardDiamond.png" width="400" /> <img src="img/solutionDiamond.png" width="400" />
 
